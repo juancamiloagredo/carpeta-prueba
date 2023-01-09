@@ -1,2 +1,1 @@
-# carpeta-prueba
-esta es una carpeta de prueba para la creación de un repositorio 
+este proyecto es una prueba de como crear unn repositorio y clonar desde git hub a mi computadora
