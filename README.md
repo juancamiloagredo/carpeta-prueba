@@ -1,1 +1,1 @@
-este proyecto es una prueba de como crear unn repositorio y clonar desde git hub a mi computadora
+hola mundo ahora si ya estoy rpobando la copia para el repositorio 
